@@ -1,0 +1,1 @@
+# Betty Command Center ⭐\n\nPersonal dashboard powered by Next.js and Supabase.\n
